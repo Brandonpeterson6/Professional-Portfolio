@@ -36,7 +36,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/portfolio-background.JPG");
+    background-image: url("../images/portfolio-background.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
