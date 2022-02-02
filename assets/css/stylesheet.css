@@ -36,7 +36,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/portfolio-background-pic.jpg");
+    background-image: url("../images/portfolio-background.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
@@ -84,7 +84,7 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background-image: url("../images/portfolio-background-pic.jpg");
+    background-image: url("../images/portfolio-background.jpg");
     background-size: cover;
     height: 500px;
     background-position: center;
@@ -142,6 +142,15 @@ header nav ul li a:hover {
     width: 30%;
     text-align: left;
     margin: auto;
+}
+
+.p1 {
+    background-image: url(/assets/images/project1-background.png);
+    color: white;
+}
+
+.project1 {
+    color: white;
 }
  
 /*Contact-info section*/
