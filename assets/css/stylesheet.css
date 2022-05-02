@@ -149,7 +149,12 @@ header nav ul li a:hover {
     color: white;
 }
 
-.project1 {
+.p2 {
+    background-image: url(/assets/images/P2-background.png);
+    color: white;
+}
+
+.project {
     color: white;
 }
  
